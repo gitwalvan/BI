@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T21:08:27.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="eZd19-bhAZidUb0qpWhO" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T21:38:17.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wtpEOpoCRez3HXOOBIYN" version="22.1.2" type="github">
   <diagram name="Página-1" id="Q9GNLlyVEW6anbHTA-qK">
-    <mxGraphModel dx="1955" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2550" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,11 +172,11 @@
         <mxCell id="malCh2sEdEqplTAO-f5v-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="malCh2sEdEqplTAO-f5v-98" target="malCh2sEdEqplTAO-f5v-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="malCh2sEdEqplTAO-f5v-109" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="600" width="1686.5" height="740" as="geometry" />
+        <mxCell id="malCh2sEdEqplTAO-f5v-109" value="PRE REQUISITOS" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="600" width="1689" height="940" as="geometry" />
         </mxCell>
         <mxCell id="malCh2sEdEqplTAO-f5v-299" value="Operaciones TI&lt;br&gt;Pilar Nicho" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="malCh2sEdEqplTAO-f5v-109">
-          <mxGeometry x="20" width="252.5" height="740" as="geometry" />
+          <mxGeometry x="20" width="255" height="940" as="geometry" />
         </mxCell>
         <mxCell id="malCh2sEdEqplTAO-f5v-302" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;INSTALACIÓN LABORATORIOS&lt;br&gt;(LINEA BASE)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.cluster_server" vertex="1" parent="malCh2sEdEqplTAO-f5v-299">
           <mxGeometry x="89.15" y="260" width="72.8" height="91" as="geometry" />
@@ -188,10 +188,10 @@
           <mxGeometry x="31.65" y="80" width="187.79" height="120" as="geometry" />
         </mxCell>
         <mxCell id="malCh2sEdEqplTAO-f5v-262" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="malCh2sEdEqplTAO-f5v-109">
-          <mxGeometry x="272.5" width="200" height="740" as="geometry" />
+          <mxGeometry x="275" width="200" height="940" as="geometry" />
         </mxCell>
         <mxCell id="malCh2sEdEqplTAO-f5v-110" value="Arquitectura BI" style="swimlane;startSize=30;" vertex="1" parent="malCh2sEdEqplTAO-f5v-109">
-          <mxGeometry x="472.5" width="474" height="740" as="geometry">
+          <mxGeometry x="475" width="474" height="940" as="geometry">
             <mxRectangle x="20" width="40" height="740" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -289,7 +289,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="malCh2sEdEqplTAO-f5v-111" value="Proveedor -&#xa;Equipos BI" style="swimlane;startSize=30;" vertex="1" parent="malCh2sEdEqplTAO-f5v-109">
-          <mxGeometry x="946.5" width="410" height="740" as="geometry" />
+          <mxGeometry x="949" width="410" height="940" as="geometry" />
         </mxCell>
         <mxCell id="malCh2sEdEqplTAO-f5v-200" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;PREPARACIÓN&lt;/b&gt;&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Load_Test.svg;" vertex="1" parent="malCh2sEdEqplTAO-f5v-111">
           <mxGeometry x="70" y="355.12" width="81.14" height="78.75" as="geometry" />
@@ -315,7 +315,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="malCh2sEdEqplTAO-f5v-112" value="Operaciones TI&#xa;Omar Delgado" style="swimlane;startSize=30;" vertex="1" parent="malCh2sEdEqplTAO-f5v-109">
-          <mxGeometry x="1356.5" width="330" height="740" as="geometry" />
+          <mxGeometry x="1359" width="330" height="940" as="geometry" />
         </mxCell>
         <mxCell id="malCh2sEdEqplTAO-f5v-221" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="malCh2sEdEqplTAO-f5v-112" source="malCh2sEdEqplTAO-f5v-203" target="malCh2sEdEqplTAO-f5v-220">
           <mxGeometry relative="1" as="geometry" />
@@ -415,6 +415,9 @@
         </mxCell>
         <mxCell id="malCh2sEdEqplTAO-f5v-224" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;FIN&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="980" y="-154.63" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="malCh2sEdEqplTAO-f5v-309" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1340" width="1690" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
