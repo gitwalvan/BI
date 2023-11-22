@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T17:30:44.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rLYQk0rPfWSI9jBMahad" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T20:26:56.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="U8Jb5typ0N_braNNuGeo" version="22.1.2" type="github">
   <diagram name="Página-1" id="Q9GNLlyVEW6anbHTA-qK">
     <mxGraphModel dx="3874" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,24 @@
         <mxCell id="malCh2sEdEqplTAO-f5v-111" value="Proveedor -&#xa;Equipos BI" style="swimlane;startSize=50;fontSize=18;" vertex="1" parent="malCh2sEdEqplTAO-f5v-109">
           <mxGeometry x="1304" width="419" height="1600" as="geometry" />
         </mxCell>
+        <mxCell id="malCh2sEdEqplTAO-f5v-420" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="malCh2sEdEqplTAO-f5v-111" source="malCh2sEdEqplTAO-f5v-416" target="malCh2sEdEqplTAO-f5v-419">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="malCh2sEdEqplTAO-f5v-421" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="malCh2sEdEqplTAO-f5v-111" source="malCh2sEdEqplTAO-f5v-416" target="malCh2sEdEqplTAO-f5v-418">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="malCh2sEdEqplTAO-f5v-416" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;PREPARACIÓN LABORATORIO&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="malCh2sEdEqplTAO-f5v-111">
+          <mxGeometry x="39.00000000000001" y="650" width="155.38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="malCh2sEdEqplTAO-f5v-418" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;REINGENIERÍA PROCESOS&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="malCh2sEdEqplTAO-f5v-111">
+          <mxGeometry x="78.06" y="410" width="257.94" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="malCh2sEdEqplTAO-f5v-422" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="malCh2sEdEqplTAO-f5v-111" source="malCh2sEdEqplTAO-f5v-419" target="malCh2sEdEqplTAO-f5v-418">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="malCh2sEdEqplTAO-f5v-419" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ADECUACIONES REFACTORING&lt;br&gt;PRUEBAS&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="malCh2sEdEqplTAO-f5v-111">
+          <mxGeometry x="236" y="630" width="164" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="malCh2sEdEqplTAO-f5v-112" value="Operaciones TI&#xa;Omar Delgado" style="swimlane;startSize=50;fontSize=18;" vertex="1" parent="malCh2sEdEqplTAO-f5v-109">
           <mxGeometry x="1723" width="462" height="1600" as="geometry" />
         </mxCell>
@@ -67,6 +85,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="490" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="malCh2sEdEqplTAO-f5v-417" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="malCh2sEdEqplTAO-f5v-109" source="malCh2sEdEqplTAO-f5v-410" target="malCh2sEdEqplTAO-f5v-416">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="malCh2sEdEqplTAO-f5v-170" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="140" y="10" width="330" height="220" as="geometry" />
