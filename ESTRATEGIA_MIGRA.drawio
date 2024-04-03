@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T01:32:13.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="eCo1cbxUfDwngUYox8Un" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T01:38:53.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="MoHHSWEIpZB6vXYJAF4s" version="24.2.0" type="github">
   <diagram name="Página-1" id="Q9GNLlyVEW6anbHTA-qK">
-    <mxGraphModel dx="6013" dy="2403" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6813" dy="2403" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1334,9 +1334,6 @@
         <mxCell id="0I1Lmg_UE5lDacyaKYJ0-183" value="&lt;h1&gt;&lt;font color=&quot;#ff0000&quot;&gt;1era Fase&lt;/font&gt;&lt;/h1&gt;" style="text;strokeColor=default;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="7390" width="245.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0I1Lmg_UE5lDacyaKYJ0-186" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" vertex="1" parent="1">
-          <mxGeometry x="1332" y="5875" width="83.43" height="88.75" as="geometry" />
-        </mxCell>
         <mxCell id="0I1Lmg_UE5lDacyaKYJ0-189" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.6;dx=40;notch=25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="713" y="6505" width="130" height="100" as="geometry" />
         </mxCell>
@@ -1431,10 +1428,10 @@
           <mxGeometry x="-1628.9899999999998" y="7132.75" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0I1Lmg_UE5lDacyaKYJ0-262" value="&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 68px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Estrategia de Dependencia de Procesos&lt;/u&gt;&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-849" y="6080" width="1392" height="90" as="geometry" />
+          <mxGeometry x="-596" y="6050" width="1392" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0I1Lmg_UE5lDacyaKYJ0-263" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;HIVE&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1304" y="6485" width="114.21" height="46.16" as="geometry" />
+          <mxGeometry x="1367" y="6485" width="114.21" height="46.16" as="geometry" />
         </mxCell>
         <mxCell id="0I1Lmg_UE5lDacyaKYJ0-264" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;REPORTERÍA&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1281" y="7102" width="378" height="30" as="geometry" />
