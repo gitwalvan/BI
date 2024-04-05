@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T21:29:43.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="oBLE0XV2uVKteF4133fw" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T01:47:22.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Uhb-Xum1GRFsxYnrYWer" version="24.2.0" type="github">
   <diagram name="Página-1" id="Q9GNLlyVEW6anbHTA-qK">
     <mxGraphModel dx="4607" dy="1718" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1835,17 +1835,25 @@
         <mxCell id="0I1Lmg_UE5lDacyaKYJ0-535" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Express_Route.svg;" vertex="1" parent="0I1Lmg_UE5lDacyaKYJ0-529">
           <mxGeometry x="121" y="39" width="93.33" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="0I1Lmg_UE5lDacyaKYJ0-571" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0I1Lmg_UE5lDacyaKYJ0-496" source="0I1Lmg_UE5lDacyaKYJ0-542">
+        <mxCell id="0I1Lmg_UE5lDacyaKYJ0-580" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0I1Lmg_UE5lDacyaKYJ0-496" source="0I1Lmg_UE5lDacyaKYJ0-542" target="0I1Lmg_UE5lDacyaKYJ0-579">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0I1Lmg_UE5lDacyaKYJ0-582" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0I1Lmg_UE5lDacyaKYJ0-496" source="0I1Lmg_UE5lDacyaKYJ0-542" target="0I1Lmg_UE5lDacyaKYJ0-500">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="199.66666666666697" y="423" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="696" />
-              <mxPoint x="200" y="696" />
+              <mxPoint x="220" y="489" />
+              <mxPoint x="406" y="489" />
+              <mxPoint x="406" y="232" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0I1Lmg_UE5lDacyaKYJ0-580" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0I1Lmg_UE5lDacyaKYJ0-496" source="0I1Lmg_UE5lDacyaKYJ0-542" target="0I1Lmg_UE5lDacyaKYJ0-579">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0I1Lmg_UE5lDacyaKYJ0-583" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="0I1Lmg_UE5lDacyaKYJ0-496" source="0I1Lmg_UE5lDacyaKYJ0-542" target="0I1Lmg_UE5lDacyaKYJ0-501">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="491" />
+              <mxPoint x="128" y="491" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="0I1Lmg_UE5lDacyaKYJ0-542" value="&lt;span style=&quot;color: rgb(0, 72, 73); font-family: Roboto; text-wrap: nowrap; background-color: rgba(249, 250, 251, 0.9);&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;CDR-Cursado-Movil-Regulatorio&lt;/font&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=28;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="0I1Lmg_UE5lDacyaKYJ0-496">
           <mxGeometry x="21" y="692" width="397" height="118" as="geometry" />
